@@ -1,12 +1,10 @@
 {
-  "slug": "36-phage",
-  "folder": "reel-36-phage",
-  "video": "https://raw.githubusercontent.com/inviser142/news4d-media/main/reel-36-phage/reel.mp4",
-  "cover": "https://raw.githubusercontent.com/inviser142/news4d-media/main/reel-36-phage/cover.jpg",
-  "caption": "ИИ сам придумал вирус, которого не существовало в природе — и тот справился с бактерией.\n\nНейросеть Evo (Стэнфорд и Arc Institute) обучили на двух миллионах геномов бактериофагов — она предсказывает буквы ДНК одну за другой, как языковая модель предсказывает следующее слово. Из сотен тысяч предложенных вариантов в лаборатории собрали около 300, и только 16 оказались живыми, рабочими вирусами — некоторые размножались и убивали кишечную палочку быстрее природного прототипа. Проверяли пока только в чашках Петри на трёх лабораторных штаммах — не на животных и не на человеке, и это устойчивость к самому вирусу, а не к антибиотикам.\n\nИсследование: King S. H., Hie B. L. и соавторы (Stanford University, Arc Institute), «Generative design of bacteriophages with genome language models», Science, 6 августа 2026, DOI 10.1126/science.aec2657.\n\nФото бактерии: NIAID / Wikimedia Commons, CC BY 2.0. Фото чашки Петри: David McClenaghan, CSIRO / Wikimedia Commons, CC BY 3.0 (creativecommons.org/licenses/by/3.0/).\n\nПолный разбор — по ссылке в профиле.\n\n#4DNews #искусственныйинтеллект #наука",
-  "sent_at": 1787938635,
-  "message_id": 8,
-  "status": "published",
-  "media_id": "17950689525032444",
-  "closed_at": "2026-08-29T13:37:23"
+  "slug": "37-glass",
+  "folder": "reel-37-glass",
+  "video": "https://raw.githubusercontent.com/inviser142/news4d-media/main/reel-37-glass/reel.mp4",
+  "cover": "https://raw.githubusercontent.com/inviser142/news4d-media/main/reel-37-glass/cover.jpg",
+  "caption": "Стакан падает со стола — и через секунду от него остаются только осколки: ни трещины, ни скрипа-предупреждения.\n\nФизики из Индии и Германии (Институт фундаментальных исследований Тата в Хайдарабаде и университет в Дюссельдорфе) подмешали в компьютерную модель стекла частицы, которые сами толкают себя и время от времени меняют курс — как некоторые бактерии. Вместо одной катастрофической трещины возникла целая сеть из мелких, и материал стал терять прочность плавно, а не обвалом.\n\nПока это только модель: ни один настоящий образец такими частицами ещё не начиняли.\n\nИсследование: Priya R., Karmakar S., Horbach J., «Tunable yielding and emergent rheology in amorphous solids with active particle doping», Nature Communications, 2026, DOI 10.1038/s41467-026-75709-y.\n\nПолный разбор — по ссылке в профиле.\n\n#4DNews #стекло #технологии",
+  "sent_at": 1788024685,
+  "message_id": 11,
+  "status": "pending"
 }
